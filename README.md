@@ -122,6 +122,4 @@ The examples include a global life-expectancy web map and a municipal map whose 
 
 ## Portfolio Context
 
-These projects originated from university geospatial coursework and have been curated here as a portfolio of selected work. Large third-party datasets, course handouts, grading material, and personally identifying submission documents are intentionally excluded.
-
-Several larger projects are maintained separately because they represent complete end-to-end analyses rather than individual cartographic exercises.
+These projects originated from university geospatial coursework and have been curated here as a portfolio of selected work.
