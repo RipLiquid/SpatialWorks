@@ -123,3 +123,9 @@ The examples include a global life-expectancy web map and a municipal map whose 
 ## Portfolio Context
 
 These projects originated from university geospatial coursework and have been curated here as a portfolio of selected work.
+
+## Academic Integrity
+
+This repository contains university coursework shared for portfolio review and educational reference only. Copying, redistributing, or submitting this work as coursework is not permitted.
+
+See [ACADEMIC_INTEGRITY.md](ACADEMIC_INTEGRITY.md) for details.
